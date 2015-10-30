@@ -69,4 +69,4 @@ Creates a expression that evaluates to the empty string. For variety, a `num` pa
 '[]+([])'
 ```
 
-[wat-talk]: https://test
+[wat-talk]: https://www.destroyallsoftware.com/talks/wat
