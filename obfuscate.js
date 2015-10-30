@@ -80,7 +80,7 @@ function obfuscateChr(c, i) {
     return obfuscateNum(parseInt(c)) + obfuscateEmptyString(i % 3);
   } else {
     // Gotta get creative hiding characters
-    return obfuscateEmptyString(i % 5) + "+'" + c + "'+" + obfuscateEmptyString(i % 4);
+    return obfuscateEmptyString(i % 5) + '+"' + c + '"+' + obfuscateEmptyString(i % 4);
   }
 }
 
