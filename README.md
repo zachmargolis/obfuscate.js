@@ -2,6 +2,8 @@
 
 Obfuscate the crap out of strings in Javascript!
 
+Basically, my homegrown, not-as-complete version of [jsfuck][jsfuck].
+
 1. [Background](#background)
 2. [Usage](#usage)
 3. [API](#api)
@@ -78,5 +80,6 @@ Creates a expression that evaluates to the empty string. For variety, a `num` pa
 '[]+([])'
 ```
 
+[jsfuck]: [http://www.jsfuck.com/]
 [wat-talk]: https://www.destroyallsoftware.com/talks/wat
 [explanations]: http://stackoverflow.com/questions/4170978/explain-why-this-works
